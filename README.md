@@ -1,7 +1,7 @@
 #  {Triangle Tracker}
 #### {its a website that helps you identify different triangles}, {13/09/2018}
 #### By **{Amira Tiffany Mugure}**
-## Description{This site helps you identify different types of triangle by entering three figures the heihgt,base and the hypoteneusIf any of your figures may be wrong the triangle type will not show. }
+## Description{This site helps you identify different types of triangle by entering three figures the heihgt,base and the hypoteneus If any of your figures may be wrong the triangle type will not show. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -17,4 +17,3 @@ There are no known bugs.
 {amiratiffany@gmail.com.}
 ### License
 Copyright (c) {2018} **{Amira Tiffany}**
-  
